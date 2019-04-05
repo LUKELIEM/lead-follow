@@ -227,7 +227,7 @@ class Tribe():
         self.culture = culture
         self.members = agents
 
-        # Used to implement exile and colonize culture
+        # Used to implement exile and follower culture
         self.banned_zone = None
         self.target_zone = None
         
@@ -276,16 +276,16 @@ class Tribe():
             penalty = self.culture['laser_penalty']
             awards = [laser * penalty for laser in tag_hist]
 
-        # Added 03-03-2019 exile vs colonize    
+        # Added 03-03-2019 exile vs follower    
         elif culture is 'pacifist_exile':
             laser_penalty = self.culture['laser_penalty']
             banish_penalty = self.culture['banish_penalty']
             awards = [(laser * laser_penalty + banish * banish_penalty)  for laser, banish in zip(tag_hist, in_banned_hist)]
-        elif culture is 'pacifist_colonize':
+        elif culture is 'pacifist_follower':
             laser_penalty = self.culture['laser_penalty']
             target_reward = self.culture['target_reward']
             awards = [(laser * laser_penalty + target * target_reward)  for laser, target in zip(tag_hist, in_target_hist)]
-            
+
         elif culture is 'warlike':
             penalty = self.culture['penalty']
             reward = self.culture['reward']
