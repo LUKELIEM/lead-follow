@@ -1,5 +1,5 @@
 # Leader-Followers Team
-[Research Report](paper/Report - Multi-agent Leader-Followers.pdf)
+[Research Report](paper/Report%20-%20Multi-agent%20Leader-Followers.pdf)
 
 
 ## Abstract
