@@ -13,7 +13,11 @@ We propose a cross-functional team-based MARL framework (presented in the resear
 
 Our current paper focuses on the leader-follower aspect of this framework. A team of agents are given a follower team culture during training. Under this culture, the follower agents are given imaginary rewards for assembling within a “target zone” (which represents the leader). The leader (target zone) is assumed to have a map of the game space and will guide its followers to the area of the game space where they can achieve the global optimum.
 
+We demonstrate that the leader-followers team structure is a more reliable way of overcoming local optima and sparce reward. As shown in this [demo video](videos/leader-followers-team-demo.mp4)). 
+
 <img src="images/leader-followers.png" width="500">
+
+<img src="images/Crossing-river-leadfollow.png" width="500">
 
 ## Installation
 
