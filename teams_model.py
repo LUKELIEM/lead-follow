@@ -5,6 +5,8 @@ import platform
 import torch
 import gym
 import numpy as np
+from collections import deque
+from torch.autograd import Variable
 
 
 class Policy(torch.nn.Module):
@@ -205,9 +207,6 @@ class Rdn_Policy():
         self.tagged, self.laser_fired, self.US_hit, self.THEM_hit, self.in_banned, self.in_target = info
 
 
-import numpy as np
-
-
 """
 In this file, we will implement the Tribe Class:
 - Agents attached to the Tribe have a "Us" versus "Them" mentality.
@@ -294,3 +293,113 @@ class Tribe():
         else:
             awards = None
         return awards
+
+    
+def finish_episode(tribes, learners, optimizers, gamma, cuda):
+    """ 
+    In RL, policy gradient is calculated at the end of an episode and only then used to update
+    the weights of an agent's policy.
+    
+    The code perform policy update on each learning agent independently. Reward for each time 
+    step is stored in the list policy.rewards[] --> r(t)
+    """  
+    
+    num_learners = len(learners)
+    total_norms = [0 for i in range(num_learners)]
+    policy_losses = [[] for i in range(num_learners)]
+    losses = [[] for i in range(num_learners)]
+    T_reward = []
+
+   
+    for i in range(num_learners):
+
+        R = 0
+        saved_actions = learners[i].saved_actions
+        
+        for t in tribes:
+            if t.name is learners[i].tribe:
+                
+                # Based on team culture, calculate the team reward for the agent    
+                culture = t.culture['name']
+            
+                if culture is 'cooperative':
+                    T_reward = t.tribal_awards()
+                elif culture is 'individualist':
+                    T_reward = t.tribal_awards()
+                elif culture is 'no_fragging':
+                    T_reward = t.tribal_awards(US_hits = learners[i].US_hits)
+                elif culture is 'pacifist':
+                    T_reward = t.tribal_awards(tag_hist = learners[i].tag_hist)
+                elif culture is 'pacifist_exile':
+                    T_reward = t.tribal_awards(tag_hist = learners[i].tag_hist, \
+                                           in_banned_hist=learners[i].in_banned_hist)
+                elif culture is 'pacifist_follower':
+                    T_reward = t.tribal_awards(tag_hist = learners[i].tag_hist, \
+                                           in_target_hist=learners[i].in_target_hist)
+                elif culture is 'warlike':
+                    T_reward = t.tribal_awards(US_hits = learners[i].US_hits,THEM_hits = learners[i].THEM_hits)
+                else:
+                    T_reward = t.tribal_awards()
+ 
+                # For debug only
+                # print('Agent{} receives tribal award from Tribe{}'.format(i,t.name))
+                # print (T_reward)
+                # print (learners[i].rewards)
+                
+        # Do not implement actor-critic for now
+        # value_losses = []
+        
+        rewards = deque()
+
+        for r,T in zip(learners[i].rewards[::-1],T_reward[::-1]):
+            # The agent is incentivized to cooperate by an award of 30% of what the tribe takes
+            # in by all its members
+            R = r + T + gamma * R
+            rewards.appendleft(R)
+            
+        rewards = list(rewards)
+        rewards = torch.Tensor(rewards)
+        if cuda:
+            rewards = rewards.cuda()
+
+        # z-score rewards
+        rewards = (rewards - rewards.mean()) / (1.1e-7+rewards.std())
+        
+        #Debug     
+        #print (rewards)       
+        
+        """
+        Do not implement actor-critic for now!!!
+        for (log_prob, state_value), r in zip(saved_actions, rewards):
+            reward = r - state_value.data[0]
+            policy_losses.append(-log_prob * Variable(reward))
+            r = torch.Tensor([r])
+            if cuda:
+                r = r.cuda()
+            value_losses.append(torch.nn.functional.smooth_l1_loss(state_value,
+                                                               Variable(r)))
+
+        optimizer.zero_grad()
+        loss = torch.stack(policy_losses).sum() + torch.stack(value_losses).sum()
+        loss.backward()        
+        
+        
+        """
+        for log_prob, r in zip(saved_actions, rewards):
+            r = torch.Tensor([r])
+            if cuda:
+                r = r.cuda()
+            policy_losses[i].append(-log_prob * Variable(r))
+
+        optimizers[i].zero_grad()
+        losses[i] = torch.stack(policy_losses[i]).sum()
+        losses[i].backward()
+        
+        # Gradient Clipping Update: prevent exploding gradient
+        total_norms[i] = torch.nn.utils.clip_grad_norm_(learners[i].parameters(), 8000)
+        
+        optimizers[i].step()
+        learners[i].clear_history()   # clear an agent's history at the end of episode
+
+
+    return total_norms
