@@ -96,20 +96,7 @@ class Policy(torch.nn.Module):
     def _init_value_head(self):
         return torch.nn.Linear(256, 1)
     """
-
-        
-    # The weights should be allowed to be saved into and load from agent-indexed model files
-    # e.g. agent-1-model.pkl, agent-2-model.pkl, etc.
-    def save_weights(self):
-        file_name = 'agent-'+str(self.idx)+'-model.pkl'
-        torch.save(self.state_dict(), file_name)   
-
-    def load_weights(self):
-        file_name = 'agent-'+str(self.idx)+'-model.pkl'
-        if not os.path.exists(file_name):
-                raise ValueError('map not found: ' + file_name)
-        self.load_state_dict(torch.load(file_name))
-        
+       
     
     def forward(self, inputs):
         x = inputs
@@ -295,6 +282,43 @@ class Tribe():
         return awards
 
     
+# 04-19-2019 Implemented new way to save and load checkpoints based on:
+#     https://pytorch.org/tutorials/beginner/saving_loading_models.html
+
+def save_model(file_name, ep, model, optimizer):
+    """
+    Save a training checkpoint whereby episode, model and optimizer parameters are saved into a dictionary 
+    prior to being saved into the model file.
+    
+    Refer to:
+    https://pytorch.org/tutorials/beginner/saving_loading_models.html
+    """
+
+    torch.save({
+            'epoch': ep,
+            'model_state_dict': model.state_dict(),
+            'optimizer_state_dict': optimizer.state_dict(),
+    }, file_name) 
+    
+    return
+    
+def load_model(agent, optimizer, model_file):
+    """
+    Convert a model file saved using pickle into a file where model, optimizer and epoch parameters
+    are saved into a dictionary prior being saved.
+    
+    Refer to:
+    https://pytorch.org/tutorials/beginner/saving_loading_models.html
+    
+    The original file is assumed to be under orig_dir. The converted file is saved under conv_dir.
+    """
+    checkpoint = torch.load(model_file)
+    episode = checkpoint['epoch']
+    agent.load_state_dict(checkpoint['model_state_dict'])
+    optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
+    return episode
+
+
 def finish_episode(tribes, learners, optimizers, gamma, cuda):
     """ 
     In RL, policy gradient is calculated at the end of an episode and only then used to update

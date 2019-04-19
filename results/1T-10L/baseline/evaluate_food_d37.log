@@ -1,0 +1,2449 @@
+
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t1.0_rp-1.0_300gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 274.7
+Av. agent reward = 27.47
+Agents crossed (2nd food pile) = 6.3
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 274.7
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 6.6
+Agent1 reward is 5.5
+Agent2 reward is 37.9
+Agent3 reward is 26.5
+Agent4 reward is 2.7
+Agent5 reward is 23.0
+Agent6 reward is 32.5
+Agent7 reward is 85.0
+Agent8 reward is 32.8
+Agent9 reward is 22.1
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 353.6
+Av. agent reward = 35.36
+Agents crossed (2nd food pile) = 6.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 353.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 10.8
+Agent1 reward is 18.5
+Agent2 reward is 52.0
+Agent3 reward is 33.1
+Agent4 reward is 23.9
+Agent5 reward is 52.4
+Agent6 reward is 22.0
+Agent7 reward is 58.7
+Agent8 reward is 55.3
+Agent9 reward is 26.8
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 361.1
+Av. agent reward = 36.11
+Agents crossed (2nd food pile) = 5.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 361.1
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 17.2
+Agent1 reward is 12.1
+Agent2 reward is 66.6
+Agent3 reward is 56.4
+Agent4 reward is 6.9
+Agent5 reward is 49.9
+Agent6 reward is 25.5
+Agent7 reward is 49.1
+Agent8 reward is 47.9
+Agent9 reward is 29.5
+Training time per epochs: 2.03 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 359.7
+Av. agent reward = 35.97
+Agents crossed (2nd food pile) = 4.8
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 359.7
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 29.3
+Agent1 reward is 19.1
+Agent2 reward is 87.3
+Agent3 reward is 42.4
+Agent4 reward is 14.7
+Agent5 reward is 0.4
+Agent6 reward is 26.2
+Agent7 reward is 58.3
+Agent8 reward is 53.9
+Agent9 reward is 28.1
+Training time per epochs: 2.02 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 313.8
+Av. agent reward = 31.38
+Agents crossed (2nd food pile) = 4.9
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 313.8
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 18.3
+Agent1 reward is 25.7
+Agent2 reward is 14.4
+Agent3 reward is 27.1
+Agent4 reward is 7.6
+Agent5 reward is 0.0
+Agent6 reward is 25.3
+Agent7 reward is 136.5
+Agent8 reward is 26.3
+Agent9 reward is 32.7
+Training time per epochs: 2.02 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 354.6
+Av. agent reward = 35.46
+Agents crossed (2nd food pile) = 4.3
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 354.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 28.6
+Agent1 reward is 0.0
+Agent2 reward is 59.4
+Agent3 reward is 56.4
+Agent4 reward is 0.0
+Agent5 reward is 0.0
+Agent6 reward is 29.3
+Agent7 reward is 99.3
+Agent8 reward is 48.2
+Agent9 reward is 33.4
+Training time per epochs: 2.03 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t1.0_rp-1.0_600gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 296.8
+Av. agent reward = 29.68
+Agents crossed (2nd food pile) = 3.5
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 296.8
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 19.4
+Agent1 reward is 97.3
+Agent2 reward is 18.6
+Agent3 reward is 72.8
+Agent4 reward is 13.1
+Agent5 reward is 7.2
+Agent6 reward is 7.2
+Agent7 reward is 18.8
+Agent8 reward is 23.5
+Agent9 reward is 18.8
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 341.0
+Av. agent reward = 34.10
+Agents crossed (2nd food pile) = 3.4
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 341.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 8.6
+Agent1 reward is 109.3
+Agent2 reward is 39.1
+Agent3 reward is 92.5
+Agent4 reward is 11.7
+Agent5 reward is 11.2
+Agent6 reward is 0.0
+Agent7 reward is 18.4
+Agent8 reward is 25.4
+Agent9 reward is 24.9
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 332.6
+Av. agent reward = 33.26
+Agents crossed (2nd food pile) = 4.9
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 332.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 24.2
+Agent1 reward is 32.1
+Agent2 reward is 23.7
+Agent3 reward is 142.9
+Agent4 reward is 19.2
+Agent5 reward is 0.2
+Agent6 reward is 0.0
+Agent7 reward is 28.9
+Agent8 reward is 28.6
+Agent9 reward is 32.7
+Training time per epochs: 2.00 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 352.6
+Av. agent reward = 35.26
+Agents crossed (2nd food pile) = 5.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 352.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 22.0
+Agent1 reward is 33.0
+Agent2 reward is 26.0
+Agent3 reward is 153.5
+Agent4 reward is 26.6
+Agent5 reward is 3.3
+Agent6 reward is 0.0
+Agent7 reward is 26.5
+Agent8 reward is 28.0
+Agent9 reward is 33.6
+Training time per epochs: 2.01 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 353.0
+Av. agent reward = 35.30
+Agents crossed (2nd food pile) = 4.8
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 353.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 22.2
+Agent1 reward is 26.8
+Agent2 reward is 26.9
+Agent3 reward is 163.2
+Agent4 reward is 23.4
+Agent5 reward is 0.2
+Agent6 reward is 0.0
+Agent7 reward is 28.4
+Agent8 reward is 29.4
+Agent9 reward is 32.6
+Training time per epochs: 2.01 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 371.6
+Av. agent reward = 37.16
+Agents crossed (2nd food pile) = 5.2
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 371.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 44.2
+Agent1 reward is 68.1
+Agent2 reward is 34.4
+Agent3 reward is 75.1
+Agent4 reward is 48.2
+Agent5 reward is 10.9
+Agent6 reward is 0.0
+Agent7 reward is 30.0
+Agent8 reward is 28.1
+Agent9 reward is 32.6
+Training time per epochs: 2.02 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t1.25_rp-1.0_300gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 246.1
+Av. agent reward = 24.61
+Agents crossed (2nd food pile) = 3.7
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 246.1
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.2
+Agent1 reward is 52.4
+Agent2 reward is 28.0
+Agent3 reward is 13.5
+Agent4 reward is 15.8
+Agent5 reward is 31.0
+Agent6 reward is 1.2
+Agent7 reward is 13.8
+Agent8 reward is 68.5
+Agent9 reward is 21.8
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 341.2
+Av. agent reward = 34.12
+Agents crossed (2nd food pile) = 5.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 341.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 8.0
+Agent1 reward is 18.3
+Agent2 reward is 20.8
+Agent3 reward is 58.0
+Agent4 reward is 29.1
+Agent5 reward is 19.1
+Agent6 reward is 7.0
+Agent7 reward is 58.3
+Agent8 reward is 42.4
+Agent9 reward is 80.2
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 355.9
+Av. agent reward = 35.59
+Agents crossed (2nd food pile) = 5.3
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 355.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 37.9
+Agent1 reward is 30.9
+Agent2 reward is 27.5
+Agent3 reward is 64.6
+Agent4 reward is 11.8
+Agent5 reward is 33.1
+Agent6 reward is 29.2
+Agent7 reward is 60.8
+Agent8 reward is 6.1
+Agent9 reward is 54.0
+Training time per epochs: 2.04 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 352.1
+Av. agent reward = 35.21
+Agents crossed (2nd food pile) = 4.5
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 352.1
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 29.0
+Agent1 reward is 0.0
+Agent2 reward is 20.6
+Agent3 reward is 44.5
+Agent4 reward is 20.6
+Agent5 reward is 31.2
+Agent6 reward is 24.8
+Agent7 reward is 60.4
+Agent8 reward is 46.9
+Agent9 reward is 74.0
+Training time per epochs: 2.03 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 343.2
+Av. agent reward = 34.32
+Agents crossed (2nd food pile) = 3.4
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 343.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 16.8
+Agent1 reward is 0.0
+Agent2 reward is 22.7
+Agent3 reward is 55.7
+Agent4 reward is 18.3
+Agent5 reward is 31.0
+Agent6 reward is 24.4
+Agent7 reward is 92.1
+Agent8 reward is 79.7
+Agent9 reward is 2.4
+Training time per epochs: 2.03 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 355.0
+Av. agent reward = 35.50
+Agents crossed (2nd food pile) = 3.4
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 355.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 61.0
+Agent1 reward is 0.0
+Agent2 reward is 15.2
+Agent3 reward is 64.0
+Agent4 reward is 28.1
+Agent5 reward is 28.9
+Agent6 reward is 20.7
+Agent7 reward is 96.4
+Agent8 reward is 9.1
+Agent9 reward is 31.6
+Training time per epochs: 2.03 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t1.25_rp-1.0_600gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 312.2
+Av. agent reward = 31.22
+Agents crossed (2nd food pile) = 3.6
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 312.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 70.7
+Agent2 reward is 63.7
+Agent3 reward is 0.1
+Agent4 reward is 2.8
+Agent5 reward is 39.2
+Agent6 reward is 9.6
+Agent7 reward is 68.1
+Agent8 reward is 31.4
+Agent9 reward is 26.6
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 349.5
+Av. agent reward = 34.95
+Agents crossed (2nd food pile) = 4.9
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 349.5
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 81.8
+Agent2 reward is 74.3
+Agent3 reward is 2.1
+Agent4 reward is 11.2
+Agent5 reward is 37.2
+Agent6 reward is 28.7
+Agent7 reward is 55.2
+Agent8 reward is 29.8
+Agent9 reward is 29.2
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 356.3
+Av. agent reward = 35.63
+Agents crossed (2nd food pile) = 5.6
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 356.3
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 61.1
+Agent2 reward is 45.2
+Agent3 reward is 18.8
+Agent4 reward is 16.1
+Agent5 reward is 32.6
+Agent6 reward is 29.9
+Agent7 reward is 69.3
+Agent8 reward is 51.9
+Agent9 reward is 31.4
+Training time per epochs: 2.02 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 370.8
+Av. agent reward = 37.08
+Agents crossed (2nd food pile) = 4.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 370.8
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 97.6
+Agent2 reward is 52.4
+Agent3 reward is 13.3
+Agent4 reward is 36.6
+Agent5 reward is 75.6
+Agent6 reward is 29.2
+Agent7 reward is 0.0
+Agent8 reward is 38.6
+Agent9 reward is 27.5
+Training time per epochs: 2.03 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 368.4
+Av. agent reward = 36.84
+Agents crossed (2nd food pile) = 3.5
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 368.4
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.0
+Agent2 reward is 98.2
+Agent3 reward is 16.9
+Agent4 reward is 53.8
+Agent5 reward is 99.1
+Agent6 reward is 30.1
+Agent7 reward is 0.0
+Agent8 reward is 41.3
+Agent9 reward is 29.0
+Training time per epochs: 2.03 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 272.5
+Av. agent reward = 27.25
+Agents crossed (2nd food pile) = 1.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 272.5
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.0
+Agent2 reward is 0.2
+Agent3 reward is 12.5
+Agent4 reward is 22.9
+Agent5 reward is 171.1
+Agent6 reward is 6.5
+Agent7 reward is 0.5
+Agent8 reward is 28.7
+Agent9 reward is 30.0
+Training time per epochs: 2.03 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t1.5_rp-1.0_300gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 179.7
+Av. agent reward = 17.97
+Agents crossed (2nd food pile) = 4.5
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 179.7
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 9.5
+Agent1 reward is 3.2
+Agent2 reward is 34.8
+Agent3 reward is 4.6
+Agent4 reward is 37.4
+Agent5 reward is 2.1
+Agent6 reward is 9.7
+Agent7 reward is 28.6
+Agent8 reward is 21.4
+Agent9 reward is 28.4
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 342.0
+Av. agent reward = 34.20
+Agents crossed (2nd food pile) = 4.7
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 342.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 25.2
+Agent1 reward is 64.4
+Agent2 reward is 0.6
+Agent3 reward is 32.5
+Agent4 reward is 2.2
+Agent5 reward is 66.5
+Agent6 reward is 22.3
+Agent7 reward is 19.1
+Agent8 reward is 80.2
+Agent9 reward is 29.0
+Training time per epochs: 2.04 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 365.3
+Av. agent reward = 36.53
+Agents crossed (2nd food pile) = 5.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 365.3
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 39.8
+Agent1 reward is 56.0
+Agent2 reward is 1.4
+Agent3 reward is 21.0
+Agent4 reward is 0.2
+Agent5 reward is 70.3
+Agent6 reward is 46.0
+Agent7 reward is 24.3
+Agent8 reward is 71.7
+Agent9 reward is 34.7
+Training time per epochs: 2.04 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 364.7
+Av. agent reward = 36.47
+Agents crossed (2nd food pile) = 5.6
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 364.7
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 52.0
+Agent1 reward is 42.2
+Agent2 reward is 29.5
+Agent3 reward is 7.5
+Agent4 reward is 0.0
+Agent5 reward is 65.6
+Agent6 reward is 55.4
+Agent7 reward is 29.7
+Agent8 reward is 44.1
+Agent9 reward is 38.7
+Training time per epochs: 2.03 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 337.2
+Av. agent reward = 33.72
+Agents crossed (2nd food pile) = 2.7
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 337.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 12.0
+Agent1 reward is 8.6
+Agent2 reward is 4.5
+Agent3 reward is 14.4
+Agent4 reward is 0.0
+Agent5 reward is 91.2
+Agent6 reward is 27.6
+Agent7 reward is 28.6
+Agent8 reward is 119.0
+Agent9 reward is 31.3
+Training time per epochs: 2.03 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 375.0
+Av. agent reward = 37.50
+Agents crossed (2nd food pile) = 4.5
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 375.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 36.6
+Agent1 reward is 0.0
+Agent2 reward is 43.1
+Agent3 reward is 27.3
+Agent4 reward is 0.0
+Agent5 reward is 70.2
+Agent6 reward is 45.4
+Agent7 reward is 30.0
+Agent8 reward is 93.5
+Agent9 reward is 28.8
+Training time per epochs: 2.03 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t1.5_rp-1.0_600gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 295.3
+Av. agent reward = 29.53
+Agents crossed (2nd food pile) = 2.3
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 295.3
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 1.3
+Agent1 reward is 0.0
+Agent2 reward is 1.9
+Agent3 reward is 113.2
+Agent4 reward is 0.6
+Agent5 reward is 17.3
+Agent6 reward is 87.8
+Agent7 reward is 24.1
+Agent8 reward is 23.2
+Agent9 reward is 25.9
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 329.9
+Av. agent reward = 32.99
+Agents crossed (2nd food pile) = 2.6
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 329.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 23.5
+Agent1 reward is 0.0
+Agent2 reward is 1.9
+Agent3 reward is 131.4
+Agent4 reward is 0.0
+Agent5 reward is 16.3
+Agent6 reward is 83.8
+Agent7 reward is 18.9
+Agent8 reward is 28.6
+Agent9 reward is 25.4
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 330.6
+Av. agent reward = 33.06
+Agents crossed (2nd food pile) = 1.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 330.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.0
+Agent2 reward is 15.2
+Agent3 reward is 236.5
+Agent4 reward is 0.0
+Agent5 reward is 31.1
+Agent6 reward is 15.0
+Agent7 reward is 1.8
+Agent8 reward is 0.0
+Agent9 reward is 31.0
+Training time per epochs: 2.03 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 349.3
+Av. agent reward = 34.93
+Agents crossed (2nd food pile) = 1.2
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 349.3
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.0
+Agent2 reward is 5.6
+Agent3 reward is 248.5
+Agent4 reward is 0.0
+Agent5 reward is 28.1
+Agent6 reward is 29.3
+Agent7 reward is 8.1
+Agent8 reward is 0.0
+Agent9 reward is 29.7
+Training time per epochs: 2.03 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 356.3
+Av. agent reward = 35.63
+Agents crossed (2nd food pile) = 1.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 356.3
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.0
+Agent2 reward is 6.6
+Agent3 reward is 263.8
+Agent4 reward is 0.0
+Agent5 reward is 28.1
+Agent6 reward is 27.4
+Agent7 reward is 0.0
+Agent8 reward is 0.0
+Agent9 reward is 30.4
+Training time per epochs: 2.03 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 93.0
+Av. agent reward = 9.30
+Agents crossed (2nd food pile) = 0.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 93.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.0
+Agent2 reward is 2.0
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 30.0
+Agent6 reward is 29.0
+Agent7 reward is 0.0
+Agent8 reward is 0.0
+Agent9 reward is 32.0
+Training time per epochs: 2.01 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t1.5_rp-1.0_1200gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 277.1
+Av. agent reward = 27.71
+Agents crossed (2nd food pile) = 1.9
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 277.1
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 5.9
+Agent1 reward is 0.7
+Agent2 reward is 21.7
+Agent3 reward is 21.8
+Agent4 reward is 36.3
+Agent5 reward is 10.4
+Agent6 reward is 7.8
+Agent7 reward is 132.2
+Agent8 reward is 15.0
+Agent9 reward is 25.3
+Training time per epochs: 2.02 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 299.6
+Av. agent reward = 29.96
+Agents crossed (2nd food pile) = 2.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 299.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.2
+Agent1 reward is 1.6
+Agent2 reward is 24.0
+Agent3 reward is 0.0
+Agent4 reward is 61.1
+Agent5 reward is 8.8
+Agent6 reward is 0.0
+Agent7 reward is 151.0
+Agent8 reward is 23.0
+Agent9 reward is 29.7
+Training time per epochs: 2.02 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 310.5
+Av. agent reward = 31.05
+Agents crossed (2nd food pile) = 1.8
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 310.5
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 29.6
+Agent2 reward is 26.9
+Agent3 reward is 0.0
+Agent4 reward is 171.2
+Agent5 reward is 1.5
+Agent6 reward is 0.0
+Agent7 reward is 31.7
+Agent8 reward is 20.1
+Agent9 reward is 29.3
+Training time per epochs: 2.02 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 346.6
+Av. agent reward = 34.66
+Agents crossed (2nd food pile) = 2.9
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 346.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 61.0
+Agent2 reward is 14.3
+Agent3 reward is 0.0
+Agent4 reward is 113.3
+Agent5 reward is 45.9
+Agent6 reward is 0.0
+Agent7 reward is 53.2
+Agent8 reward is 26.0
+Agent9 reward is 32.8
+Training time per epochs: 2.02 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 355.4
+Av. agent reward = 35.54
+Agents crossed (2nd food pile) = 2.7
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 355.4
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 89.9
+Agent2 reward is 74.5
+Agent3 reward is 0.0
+Agent4 reward is 103.0
+Agent5 reward is 31.7
+Agent6 reward is 0.0
+Agent7 reward is 10.1
+Agent8 reward is 13.4
+Agent9 reward is 32.7
+Training time per epochs: 2.02 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 329.0
+Av. agent reward = 32.90
+Agents crossed (2nd food pile) = 1.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 329.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 228.8
+Agent2 reward is 32.6
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 30.2
+Agent6 reward is 0.0
+Agent7 reward is 0.0
+Agent8 reward is 3.0
+Agent9 reward is 34.3
+Training time per epochs: 2.02 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t2.0_rp-1.0_300gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 196.2
+Av. agent reward = 19.62
+Agents crossed (2nd food pile) = 2.8
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 196.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 4.7
+Agent1 reward is 2.2
+Agent2 reward is 0.1
+Agent3 reward is 57.7
+Agent4 reward is 1.0
+Agent5 reward is 59.5
+Agent6 reward is 6.5
+Agent7 reward is 20.2
+Agent8 reward is 10.3
+Agent9 reward is 33.8
+Training time per epochs: 2.02 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 277.4
+Av. agent reward = 27.74
+Agents crossed (2nd food pile) = 3.6
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 277.4
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 8.1
+Agent1 reward is 5.6
+Agent2 reward is 3.8
+Agent3 reward is 70.6
+Agent4 reward is 3.7
+Agent5 reward is 97.6
+Agent6 reward is 19.1
+Agent7 reward is 13.7
+Agent8 reward is 31.7
+Agent9 reward is 23.7
+Training time per epochs: 2.02 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 343.9
+Av. agent reward = 34.39
+Agents crossed (2nd food pile) = 3.5
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 343.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 4.0
+Agent1 reward is 0.4
+Agent2 reward is 63.9
+Agent3 reward is 69.3
+Agent4 reward is 18.5
+Agent5 reward is 96.3
+Agent6 reward is 23.9
+Agent7 reward is 4.6
+Agent8 reward is 33.0
+Agent9 reward is 29.9
+Training time per epochs: 2.03 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 359.3
+Av. agent reward = 35.93
+Agents crossed (2nd food pile) = 4.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 359.3
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 49.7
+Agent1 reward is 0.0
+Agent2 reward is 35.7
+Agent3 reward is 80.2
+Agent4 reward is 24.1
+Agent5 reward is 79.1
+Agent6 reward is 24.6
+Agent7 reward is 3.0
+Agent8 reward is 33.0
+Agent9 reward is 30.0
+Training time per epochs: 2.01 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 352.2
+Av. agent reward = 35.22
+Agents crossed (2nd food pile) = 3.2
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 352.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 71.0
+Agent1 reward is 0.0
+Agent2 reward is 23.4
+Agent3 reward is 76.3
+Agent4 reward is 20.8
+Agent5 reward is 88.6
+Agent6 reward is 12.9
+Agent7 reward is 26.0
+Agent8 reward is 33.3
+Agent9 reward is 0.0
+Training time per epochs: 2.01 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 367.9
+Av. agent reward = 36.79
+Agents crossed (2nd food pile) = 3.4
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 367.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 96.3
+Agent1 reward is 0.0
+Agent2 reward is 17.4
+Agent3 reward is 74.5
+Agent4 reward is 8.9
+Agent5 reward is 86.7
+Agent6 reward is 21.0
+Agent7 reward is 29.0
+Agent8 reward is 33.1
+Agent9 reward is 0.9
+Training time per epochs: 2.01 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t2.0_rp-1.0_600gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 261.9
+Av. agent reward = 26.19
+Agents crossed (2nd food pile) = 3.4
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 261.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 10.1
+Agent1 reward is 44.3
+Agent2 reward is 0.0
+Agent3 reward is 47.4
+Agent4 reward is 80.9
+Agent5 reward is 8.2
+Agent6 reward is 0.9
+Agent7 reward is 16.4
+Agent8 reward is 19.8
+Agent9 reward is 33.8
+Training time per epochs: 2.02 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 326.9
+Av. agent reward = 32.69
+Agents crossed (2nd food pile) = 3.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 326.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 66.7
+Agent1 reward is 22.4
+Agent2 reward is 0.0
+Agent3 reward is 79.1
+Agent4 reward is 67.8
+Agent5 reward is 0.0
+Agent6 reward is 0.4
+Agent7 reward is 30.1
+Agent8 reward is 29.9
+Agent9 reward is 30.5
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 360.9
+Av. agent reward = 36.09
+Agents crossed (2nd food pile) = 3.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 360.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 63.4
+Agent1 reward is 53.0
+Agent2 reward is 0.0
+Agent3 reward is 55.5
+Agent4 reward is 97.6
+Agent5 reward is 0.0
+Agent6 reward is 1.0
+Agent7 reward is 28.6
+Agent8 reward is 29.0
+Agent9 reward is 32.8
+Training time per epochs: 2.03 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 372.8
+Av. agent reward = 37.28
+Agents crossed (2nd food pile) = 2.8
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 372.8
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 90.1
+Agent1 reward is 107.2
+Agent2 reward is 0.0
+Agent3 reward is 5.4
+Agent4 reward is 77.3
+Agent5 reward is 0.0
+Agent6 reward is 0.1
+Agent7 reward is 29.7
+Agent8 reward is 30.0
+Agent9 reward is 32.9
+Training time per epochs: 2.03 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 363.9
+Av. agent reward = 36.39
+Agents crossed (2nd food pile) = 2.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 363.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 142.7
+Agent2 reward is 0.0
+Agent3 reward is 0.0
+Agent4 reward is 128.6
+Agent5 reward is 0.0
+Agent6 reward is 0.1
+Agent7 reward is 29.6
+Agent8 reward is 30.0
+Agent9 reward is 33.0
+Training time per epochs: 2.01 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 355.8
+Av. agent reward = 35.58
+Agents crossed (2nd food pile) = 2.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 355.8
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 137.6
+Agent2 reward is 0.0
+Agent3 reward is 0.0
+Agent4 reward is 125.2
+Agent5 reward is 0.0
+Agent6 reward is 0.0
+Agent7 reward is 30.0
+Agent8 reward is 30.0
+Agent9 reward is 33.0
+Training time per epochs: 2.02 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t2.0_rp-1.0_1200gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 321.3
+Av. agent reward = 32.13
+Agents crossed (2nd food pile) = 4.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 321.3
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 80.4
+Agent1 reward is 13.4
+Agent2 reward is 37.8
+Agent3 reward is 50.0
+Agent4 reward is 0.0
+Agent5 reward is 17.3
+Agent6 reward is 15.4
+Agent7 reward is 24.7
+Agent8 reward is 12.5
+Agent9 reward is 69.8
+Training time per epochs: 2.02 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 370.9
+Av. agent reward = 37.09
+Agents crossed (2nd food pile) = 3.6
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 370.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 41.9
+Agent1 reward is 0.0
+Agent2 reward is 55.5
+Agent3 reward is 90.6
+Agent4 reward is 0.0
+Agent5 reward is 19.2
+Agent6 reward is 24.5
+Agent7 reward is 24.8
+Agent8 reward is 15.7
+Agent9 reward is 98.8
+Training time per epochs: 2.01 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 388.3
+Av. agent reward = 38.83
+Agents crossed (2nd food pile) = 3.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 388.3
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 92.2
+Agent1 reward is 0.0
+Agent2 reward is 8.6
+Agent3 reward is 114.6
+Agent4 reward is 0.0
+Agent5 reward is 6.6
+Agent6 reward is 24.7
+Agent7 reward is 30.6
+Agent8 reward is 26.1
+Agent9 reward is 84.9
+Training time per epochs: 2.00 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 353.5
+Av. agent reward = 35.35
+Agents crossed (2nd food pile) = 1.3
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 353.5
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.2
+Agent1 reward is 0.0
+Agent2 reward is 24.3
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 11.1
+Agent6 reward is 21.9
+Agent7 reward is 25.9
+Agent8 reward is 25.9
+Agent9 reward is 244.2
+Training time per epochs: 2.01 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 141.4
+Av. agent reward = 14.14
+Agents crossed (2nd food pile) = 0.5
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 141.4
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.0
+Agent2 reward is 0.0
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 11.7
+Agent6 reward is 27.0
+Agent7 reward is 23.4
+Agent8 reward is 21.1
+Agent9 reward is 58.1
+Training time per epochs: 2.00 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 359.2
+Av. agent reward = 35.92
+Agents crossed (2nd food pile) = 1.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 359.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.0
+Agent2 reward is 0.0
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 4.9
+Agent6 reward is 26.0
+Agent7 reward is 40.0
+Agent8 reward is 17.6
+Agent9 reward is 270.7
+Training time per epochs: 2.01 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t4.0_rp-1.0_300gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 72.8
+Av. agent reward = 7.28
+Agents crossed (2nd food pile) = 1.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 72.8
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.5
+Agent1 reward is 4.4
+Agent2 reward is 1.4
+Agent3 reward is 1.6
+Agent4 reward is 3.2
+Agent5 reward is 3.4
+Agent6 reward is 1.0
+Agent7 reward is 21.5
+Agent8 reward is 28.8
+Agent9 reward is 6.9
+Training time per epochs: 2.00 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 311.4
+Av. agent reward = 31.14
+Agents crossed (2nd food pile) = 3.6
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 311.4
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.2
+Agent1 reward is 59.5
+Agent2 reward is 62.3
+Agent3 reward is 4.1
+Agent4 reward is 1.7
+Agent5 reward is 17.3
+Agent6 reward is 44.1
+Agent7 reward is 62.2
+Agent8 reward is 34.0
+Agent9 reward is 26.0
+Training time per epochs: 2.01 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 355.4
+Av. agent reward = 35.54
+Agents crossed (2nd food pile) = 4.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 355.4
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 3.7
+Agent1 reward is 54.0
+Agent2 reward is 65.8
+Agent3 reward is 0.0
+Agent4 reward is 5.0
+Agent5 reward is 8.2
+Agent6 reward is 81.8
+Agent7 reward is 67.9
+Agent8 reward is 39.0
+Agent9 reward is 30.1
+Training time per epochs: 2.00 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 372.4
+Av. agent reward = 37.24
+Agents crossed (2nd food pile) = 3.6
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 372.4
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 1.6
+Agent1 reward is 76.3
+Agent2 reward is 77.5
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 28.0
+Agent6 reward is 43.9
+Agent7 reward is 83.8
+Agent8 reward is 30.4
+Agent9 reward is 31.0
+Training time per epochs: 2.01 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 337.9
+Av. agent reward = 33.79
+Agents crossed (2nd food pile) = 2.7
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 337.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 72.5
+Agent2 reward is 84.9
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 2.0
+Agent6 reward is 89.5
+Agent7 reward is 22.7
+Agent8 reward is 35.4
+Agent9 reward is 30.9
+Training time per epochs: 2.00 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 308.0
+Av. agent reward = 30.80
+Agents crossed (2nd food pile) = 1.8
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 308.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.9
+Agent2 reward is 120.1
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 0.0
+Agent6 reward is 99.9
+Agent7 reward is 0.0
+Agent8 reward is 56.0
+Agent9 reward is 31.0
+Training time per epochs: 2.01 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t4.0_rp-1.0_600gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 101.2
+Av. agent reward = 10.12
+Agents crossed (2nd food pile) = 1.2
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 101.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 4.0
+Agent1 reward is 10.7
+Agent2 reward is 2.9
+Agent3 reward is 19.0
+Agent4 reward is 8.2
+Agent5 reward is 8.7
+Agent6 reward is 1.5
+Agent7 reward is 14.9
+Agent8 reward is 9.2
+Agent9 reward is 22.1
+Training time per epochs: 2.00 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 302.4
+Av. agent reward = 30.24
+Agents crossed (2nd food pile) = 2.9
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 302.4
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 7.4
+Agent1 reward is 27.7
+Agent2 reward is 1.7
+Agent3 reward is 79.5
+Agent4 reward is 31.4
+Agent5 reward is 15.5
+Agent6 reward is 0.9
+Agent7 reward is 83.9
+Agent8 reward is 23.6
+Agent9 reward is 30.7
+Training time per epochs: 2.00 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 321.0
+Av. agent reward = 32.10
+Agents crossed (2nd food pile) = 2.4
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 321.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 1.6
+Agent1 reward is 64.6
+Agent2 reward is 0.0
+Agent3 reward is 124.8
+Agent4 reward is 36.4
+Agent5 reward is 4.8
+Agent6 reward is 9.4
+Agent7 reward is 16.6
+Agent8 reward is 29.1
+Agent9 reward is 33.8
+Training time per epochs: 2.01 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 368.2
+Av. agent reward = 36.82
+Agents crossed (2nd food pile) = 1.9
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 368.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 8.4
+Agent1 reward is 135.7
+Agent2 reward is 0.0
+Agent3 reward is 139.8
+Agent4 reward is 2.3
+Agent5 reward is 1.7
+Agent6 reward is 21.7
+Agent7 reward is 0.0
+Agent8 reward is 33.4
+Agent9 reward is 25.3
+Training time per epochs: 2.01 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 335.8
+Av. agent reward = 33.58
+Agents crossed (2nd food pile) = 1.8
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 335.8
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 3.7
+Agent1 reward is 110.4
+Agent2 reward is 0.0
+Agent3 reward is 136.5
+Agent4 reward is 2.8
+Agent5 reward is 9.7
+Agent6 reward is 13.5
+Agent7 reward is 0.0
+Agent8 reward is 23.4
+Agent9 reward is 35.7
+Training time per epochs: 2.00 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 188.6
+Av. agent reward = 18.86
+Agents crossed (2nd food pile) = 0.6
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 188.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.1
+Agent1 reward is 67.8
+Agent2 reward is 0.0
+Agent3 reward is 57.7
+Agent4 reward is 0.0
+Agent5 reward is 30.0
+Agent6 reward is 0.0
+Agent7 reward is 0.0
+Agent8 reward is 0.0
+Agent9 reward is 33.0
+Training time per epochs: 2.00 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t4.0_rp-1.0_1200gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 89.9
+Av. agent reward = 8.99
+Agents crossed (2nd food pile) = 0.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 89.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 2.0
+Agent1 reward is 0.6
+Agent2 reward is 18.9
+Agent3 reward is 6.4
+Agent4 reward is 3.1
+Agent5 reward is 17.9
+Agent6 reward is 2.8
+Agent7 reward is 7.3
+Agent8 reward is 3.5
+Agent9 reward is 27.4
+Training time per epochs: 2.00 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 155.2
+Av. agent reward = 15.52
+Agents crossed (2nd food pile) = 0.5
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 155.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 1.6
+Agent1 reward is 0.9
+Agent2 reward is 14.3
+Agent3 reward is 1.1
+Agent4 reward is 0.3
+Agent5 reward is 19.0
+Agent6 reward is 0.0
+Agent7 reward is 22.2
+Agent8 reward is 64.8
+Agent9 reward is 31.0
+Training time per epochs: 2.00 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 139.6
+Av. agent reward = 13.96
+Agents crossed (2nd food pile) = 0.4
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 139.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 2.5
+Agent1 reward is 38.3
+Agent2 reward is 6.5
+Agent3 reward is 5.5
+Agent4 reward is 0.0
+Agent5 reward is 20.3
+Agent6 reward is 0.0
+Agent7 reward is 7.2
+Agent8 reward is 30.2
+Agent9 reward is 29.2
+Training time per epochs: 2.00 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 253.9
+Av. agent reward = 25.39
+Agents crossed (2nd food pile) = 2.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 253.9
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 1.0
+Agent1 reward is 56.5
+Agent2 reward is 47.8
+Agent3 reward is 4.7
+Agent4 reward is 0.0
+Agent5 reward is 24.8
+Agent6 reward is 0.0
+Agent7 reward is 54.1
+Agent8 reward is 34.2
+Agent9 reward is 30.7
+Training time per epochs: 2.00 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 106.6
+Av. agent reward = 10.66
+Agents crossed (2nd food pile) = 0.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 106.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 1.8
+Agent1 reward is 25.0
+Agent2 reward is 0.0
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 6.9
+Agent6 reward is 0.0
+Agent7 reward is 33.0
+Agent8 reward is 27.9
+Agent9 reward is 12.0
+Training time per epochs: 2.00 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 92.3
+Av. agent reward = 9.23
+Agents crossed (2nd food pile) = 0.2
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 92.3
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 1.4
+Agent1 reward is 4.8
+Agent2 reward is 0.0
+Agent3 reward is 16.0
+Agent4 reward is 0.0
+Agent5 reward is 6.2
+Agent6 reward is 0.0
+Agent7 reward is 33.0
+Agent8 reward is 30.0
+Agent9 reward is 1.0
+Training time per epochs: 2.00 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t8.0_rp-1.0_300gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 13.1
+Av. agent reward = 1.31
+Agents crossed (2nd food pile) = 0.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 13.1
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.9
+Agent1 reward is 1.4
+Agent2 reward is 0.6
+Agent3 reward is 1.5
+Agent4 reward is 0.5
+Agent5 reward is 1.1
+Agent6 reward is 1.3
+Agent7 reward is 2.2
+Agent8 reward is 2.1
+Agent9 reward is 1.4
+Training time per epochs: 2.00 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 152.3
+Av. agent reward = 15.23
+Agents crossed (2nd food pile) = 1.3
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 152.3
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 1.5
+Agent1 reward is 2.8
+Agent2 reward is 0.9
+Agent3 reward is 11.0
+Agent4 reward is 2.3
+Agent5 reward is 10.3
+Agent6 reward is 8.4
+Agent7 reward is 15.4
+Agent8 reward is 75.3
+Agent9 reward is 24.5
+Training time per epochs: 2.01 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 303.2
+Av. agent reward = 30.32
+Agents crossed (2nd food pile) = 2.7
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 303.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.3
+Agent2 reward is 38.6
+Agent3 reward is 10.6
+Agent4 reward is 6.4
+Agent5 reward is 20.0
+Agent6 reward is 88.4
+Agent7 reward is 25.8
+Agent8 reward is 89.5
+Agent9 reward is 23.7
+Training time per epochs: 2.01 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 329.8
+Av. agent reward = 32.98
+Agents crossed (2nd food pile) = 3.5
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 329.8
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 51.7
+Agent2 reward is 43.9
+Agent3 reward is 7.2
+Agent4 reward is 2.5
+Agent5 reward is 24.0
+Agent6 reward is 81.1
+Agent7 reward is 28.3
+Agent8 reward is 62.6
+Agent9 reward is 28.4
+Training time per epochs: 2.01 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 323.5
+Av. agent reward = 32.35
+Agents crossed (2nd food pile) = 3.2
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 323.5
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 78.2
+Agent2 reward is 19.3
+Agent3 reward is 0.0
+Agent4 reward is 0.3
+Agent5 reward is 1.8
+Agent6 reward is 86.5
+Agent7 reward is 31.0
+Agent8 reward is 74.9
+Agent9 reward is 31.6
+Training time per epochs: 2.03 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 293.1
+Av. agent reward = 29.31
+Agents crossed (2nd food pile) = 2.7
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 293.1
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 86.4
+Agent2 reward is 6.6
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 2.0
+Agent6 reward is 77.4
+Agent7 reward is 30.0
+Agent8 reward is 57.7
+Agent9 reward is 33.0
+Training time per epochs: 2.03 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t8.0_rp-1.0_600gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 57.2
+Av. agent reward = 5.72
+Agents crossed (2nd food pile) = 0.3
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 57.2
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.2
+Agent1 reward is 2.0
+Agent2 reward is 0.6
+Agent3 reward is 4.9
+Agent4 reward is 1.5
+Agent5 reward is 1.7
+Agent6 reward is 10.7
+Agent7 reward is 8.6
+Agent8 reward is 3.1
+Agent9 reward is 23.9
+Training time per epochs: 2.04 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 296.4
+Av. agent reward = 29.64
+Agents crossed (2nd food pile) = 2.9
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 296.4
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 1.5
+Agent1 reward is 66.5
+Agent2 reward is 7.9
+Agent3 reward is 10.7
+Agent4 reward is 66.4
+Agent5 reward is 78.2
+Agent6 reward is 8.2
+Agent7 reward is 11.8
+Agent8 reward is 23.1
+Agent9 reward is 22.2
+Training time per epochs: 2.03 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 349.6
+Av. agent reward = 34.96
+Agents crossed (2nd food pile) = 3.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 349.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.8
+Agent1 reward is 78.5
+Agent2 reward is 0.2
+Agent3 reward is 8.3
+Agent4 reward is 109.9
+Agent5 reward is 65.6
+Agent6 reward is 9.5
+Agent7 reward is 20.7
+Agent8 reward is 28.7
+Agent9 reward is 27.6
+Training time per epochs: 2.04 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 332.8
+Av. agent reward = 33.28
+Agents crossed (2nd food pile) = 1.7
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 332.8
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 1.1
+Agent1 reward is 0.0
+Agent2 reward is 0.0
+Agent3 reward is 0.0
+Agent4 reward is 188.1
+Agent5 reward is 51.7
+Agent6 reward is 15.8
+Agent7 reward is 14.3
+Agent8 reward is 30.0
+Agent9 reward is 31.8
+Training time per epochs: 2.01 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 238.5
+Av. agent reward = 23.85
+Agents crossed (2nd food pile) = 1.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 238.5
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.0
+Agent2 reward is 0.0
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 102.8
+Agent6 reward is 56.7
+Agent7 reward is 16.3
+Agent8 reward is 30.0
+Agent9 reward is 32.6
+Training time per epochs: 2.02 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 93.0
+Av. agent reward = 9.30
+Agents crossed (2nd food pile) = 0.0
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 93.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.0
+Agent2 reward is 0.0
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 0.0
+Agent6 reward is 0.0
+Agent7 reward is 31.0
+Agent8 reward is 30.0
+Agent9 reward is 32.0
+Training time per epochs: 2.01 sec
+###### Dir = models/1T-10L/baseline/food_d37/pacifist/t8.0_rp-1.0_1200gs/ #######
+###### Trained episodes = 500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 76.5
+Av. agent reward = 7.65
+Agents crossed (2nd food pile) = 0.4
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 76.5
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 7.9
+Agent1 reward is 1.2
+Agent2 reward is 3.3
+Agent3 reward is 2.0
+Agent4 reward is 1.0
+Agent5 reward is 13.2
+Agent6 reward is 0.3
+Agent7 reward is 7.5
+Agent8 reward is 11.9
+Agent9 reward is 28.2
+Training time per epochs: 2.07 sec
+###### Trained episodes = 1000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 252.3
+Av. agent reward = 25.23
+Agents crossed (2nd food pile) = 1.2
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 252.3
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 2.0
+Agent1 reward is 11.3
+Agent2 reward is 156.2
+Agent3 reward is 18.3
+Agent4 reward is 2.3
+Agent5 reward is 13.8
+Agent6 reward is 2.1
+Agent7 reward is 9.6
+Agent8 reward is 24.6
+Agent9 reward is 12.2
+Training time per epochs: 2.14 sec
+###### Trained episodes = 1500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 309.0
+Av. agent reward = 30.90
+Agents crossed (2nd food pile) = 1.1
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 309.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 7.0
+Agent1 reward is 2.2
+Agent2 reward is 212.0
+Agent3 reward is 0.7
+Agent4 reward is 1.0
+Agent5 reward is 19.9
+Agent6 reward is 3.2
+Agent7 reward is 22.1
+Agent8 reward is 26.0
+Agent9 reward is 14.9
+Training time per epochs: 2.11 sec
+###### Trained episodes = 2000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 353.6
+Av. agent reward = 35.36
+Agents crossed (2nd food pile) = 1.9
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 353.6
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 2.3
+Agent1 reward is 0.0
+Agent2 reward is 159.3
+Agent3 reward is 0.0
+Agent4 reward is 100.2
+Agent5 reward is 6.0
+Agent6 reward is 0.0
+Agent7 reward is 25.0
+Agent8 reward is 28.0
+Agent9 reward is 32.8
+Training time per epochs: 2.11 sec
+###### Trained episodes = 2500 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 309.0
+Av. agent reward = 30.90
+Agents crossed (2nd food pile) = 1.3
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 309.0
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.9
+Agent2 reward is 149.3
+Agent3 reward is 0.0
+Agent4 reward is 66.7
+Agent5 reward is 26.0
+Agent6 reward is 3.8
+Agent7 reward is 30.1
+Agent8 reward is 0.0
+Agent9 reward is 32.2
+Training time per epochs: 2.08 sec
+###### Trained episodes = 3000 #######
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 137.1
+Av. agent reward = 13.71
+Agents crossed (2nd food pile) = 0.2
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 137.1
+
+Average Statistics by Agent
+=============================
+Agent0 reward is 0.0
+Agent1 reward is 0.0
+Agent2 reward is 44.1
+Agent3 reward is 0.0
+Agent4 reward is 0.0
+Agent5 reward is 30.0
+Agent6 reward is 0.0
+Agent7 reward is 30.0
+Agent8 reward is 0.0
+Agent9 reward is 33.0
+Training time per epochs: 2.09 sec
+[27.47, 35.36, 36.11, 35.96666666666667, 31.376666666666665, 35.46333333333333]
+[29.676666666666666, 34.10333333333334, 33.25666666666667, 35.25666666666667, 35.3, 37.160000000000004]
+[24.61, 34.11666666666667, 35.593333333333334, 35.21, 34.31666666666667, 35.50333333333334]
+[31.22, 34.946666666666665, 35.626666666666665, 37.08, 36.836666666666666, 27.253333333333337]
+[17.97, 34.2, 36.53333333333333, 36.473333333333336, 33.71666666666667, 37.50333333333334]
+[29.526666666666664, 32.986666666666665, 33.056666666666665, 34.93333333333333, 35.626666666666665, 9.3]
+[27.706666666666667, 29.956666666666667, 31.05, 34.663333333333334, 35.53666666666667, 32.89666666666666]
+[19.616666666666667, 27.743333333333332, 34.38666666666667, 35.93333333333333, 35.223333333333336, 36.79333333333334]
+[26.189999999999998, 32.69, 36.086666666666666, 37.28, 36.39333333333333, 35.58]
+[32.126666666666665, 37.089999999999996, 38.83, 35.35, 14.136666666666667, 35.92]
+[7.276666666666666, 31.136666666666667, 35.54, 37.24333333333333, 33.79333333333334, 30.796666666666663]
+[10.120000000000001, 30.243333333333332, 32.1, 36.81666666666667, 33.57666666666667, 18.863333333333333]
+[8.986666666666666, 15.523333333333332, 13.959999999999999, 25.386666666666667, 10.66, 9.233333333333333]
+[1.31, 15.23, 30.323333333333334, 32.97666666666667, 32.35333333333334, 29.306666666666665]
+[5.720000000000001, 29.643333333333334, 34.96333333333333, 33.276666666666664, 23.846666666666668, 9.3]
+[7.653333333333333, 25.23, 30.9, 35.35666666666667, 30.896666666666665, 13.706666666666667]
+[6.266666666666667, 6.0, 5.1, 4.8, 4.933333333333334, 4.266666666666667]
+[3.5, 3.433333333333333, 4.933333333333334, 5.033333333333333, 4.766666666666667, 5.2]
+[3.7333333333333334, 5.1, 5.266666666666667, 4.533333333333333, 3.3666666666666667, 3.433333333333333]
+[3.6333333333333333, 4.9, 5.566666666666666, 4.066666666666666, 3.5, 1.1333333333333333]
+[4.466666666666667, 4.7, 5.066666666666666, 5.6, 2.7333333333333334, 4.466666666666667]
+[2.3333333333333335, 2.6, 1.0333333333333334, 1.2, 1.0, 0.0]
+[1.9333333333333333, 2.033333333333333, 1.8333333333333333, 2.933333333333333, 2.7, 1.1]
+[2.8, 3.6, 3.533333333333333, 4.1, 3.2, 3.433333333333333]
+[3.4, 3.1333333333333333, 3.0, 2.7666666666666666, 2.0, 2.0]
+[3.966666666666667, 3.566666666666667, 3.1333333333333333, 1.3333333333333333, 0.4666666666666667, 1.0]
+[1.1333333333333333, 3.6333333333333333, 4.0, 3.6, 2.7, 1.8333333333333333]
+[1.2, 2.8666666666666667, 2.433333333333333, 1.9333333333333333, 1.7666666666666666, 0.5666666666666667]
+[0.1, 0.5333333333333333, 0.4, 2.066666666666667, 0.13333333333333333, 0.16666666666666666]
+[0.03333333333333333, 1.2666666666666666, 2.7333333333333334, 3.5, 3.2333333333333334, 2.7333333333333334]
+[0.3, 2.933333333333333, 3.1, 1.7, 1.1, 0.0]
+[0.36666666666666664, 1.1666666666666667, 1.1333333333333333, 1.9, 1.2666666666666666, 0.16666666666666666]
